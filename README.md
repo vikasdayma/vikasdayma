@@ -117,7 +117,7 @@ Responsive developer portfolio built with React, Next.js, Tailwind CSS, and Fram
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasdayma&theme=tokyo-night"/>
 </p>
 
 ---
