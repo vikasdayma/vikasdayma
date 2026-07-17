@@ -84,6 +84,7 @@ Frontend Developer | React • Next.js • TypeScript | Building Modern & Intera
 
 ### 🚜 FarmSync
 AI-powered agriculture platform featuring onboarding, marketplace, dashboards, and responsive UI.
+<a href="https://farm-sync-two.vercel.app/">FarmSync<a/>
 
 ### 📈 Momentum
 AI Powered Productivity & Collaboration Platform      
