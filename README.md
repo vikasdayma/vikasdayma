@@ -114,22 +114,6 @@ Responsive developer portfolio built with React, Next.js, Tailwind CSS, and Fram
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
