@@ -4,8 +4,6 @@
 Frontend Developer | React • Next.js • TypeScript | Building Modern & Interactive Web Applications 🚀
 </h3>
 
-\
-
 ---
 
 ## 👨‍💻 About Me
