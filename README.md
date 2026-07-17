@@ -91,10 +91,14 @@ AI-powered agriculture platform featuring onboarding, marketplace, dashboards, a
 ### 📈 Momentum
 AI Powered Productivity & Collaboration Platform      
 <br/>
-<a href="https://momentum-tawny-zeta.vercel.app/">FarmSync<a/>
+<a href="https://momentum-tawny-zeta.vercel.app/">MOMENTUM<a/>
 
 ### 🌐 Personal Portfolio
 Responsive developer portfolio built with React, Next.js, Tailwind CSS, and Framer Motion.
+AI Powered Productivity & Collaboration Platform      
+<br/>
+<a href="https://portfolio-vikas-olive.vercel.app/">Portfolio<a/>
+
 
 ## 💡 Quote
 
