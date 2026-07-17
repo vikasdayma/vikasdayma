@@ -4,11 +4,7 @@
 Frontend Developer | React • Next.js • TypeScript | Building Modern & Interactive Web Applications 🚀
 </h3>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+\
 
 ---
 
