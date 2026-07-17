@@ -91,36 +91,12 @@ Frontend Developer | React • Next.js • TypeScript | Building Modern & Intera
 ### 🚜 FarmSync
 AI-powered agriculture platform featuring onboarding, marketplace, dashboards, and responsive UI.
 
-### 📈 InvestXpense
-Expense management dashboard built using React, PostgreSQL, Prisma, and financial APIs.
+### 📈 Momentum
+AI Powered Productivity & Collaboration Platform      
 
-### 📱 Apple iPhone 15 Clone
-Interactive Apple landing page with smooth GSAP animations.
 
 ### 🌐 Personal Portfolio
 Responsive developer portfolio built with React, Next.js, Tailwind CSS, and Framer Motion.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasdayma&theme=tokyo-night"/>
-</p>
-
----
 
 ## 💡 Quote
 
